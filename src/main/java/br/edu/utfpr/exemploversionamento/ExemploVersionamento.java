@@ -14,6 +14,6 @@ public class ExemploVersionamento {
     public static void main(String[] args) {
         System.out.println("+ 1 a1 -");
         System.out.println("teste");
-        
+        System.out.println("Nova mensagem adicionada");
     }
 }
