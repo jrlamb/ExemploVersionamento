@@ -12,11 +12,8 @@ package br.edu.utfpr.exemploversionamento;
 public class ExemploVersionamento {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("Nova mensagem");
-        System.out.println("Nova mensagem 2");
-        System.out.println("Ana Carolina");
-        System.out.println("+ 1 a -");
+     System.out.println("+ 1 a1 -");
+     
         
     }
 }
